@@ -20,7 +20,8 @@ public class tttttttttttt {
 		String str = "add a string";
 	}
 
-	static void func() {
+	// rename the func
+	static void func234() {
 		int i = 0;
 		return;
 	}
