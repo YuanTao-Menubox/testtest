@@ -14,8 +14,6 @@ public class tttttttttttt {
 		String j = "s";
 		
 		final double dd = 33;
-		
-		i += 3 + 234;
 	}
 
 }
