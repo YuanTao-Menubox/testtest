@@ -20,12 +20,9 @@ public class tttttttttttt {
 		String str = "add a string";
 		
 		String anotherStr = "another string";
-		
-		// call a func
-		fuc();
 	}
 	
-	static void fuc() {
+	void fuc() {
 		return;
 	}
 
