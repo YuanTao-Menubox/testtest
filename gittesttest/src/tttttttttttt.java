@@ -21,5 +21,9 @@ public class tttttttttttt {
 		
 		String anotherStr = "another string";
 	}
+	
+	void fuc() {
+		return;
+	}
 
 }
