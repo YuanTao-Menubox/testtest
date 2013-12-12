@@ -18,6 +18,8 @@ public class tttttttttttt {
 		i += 3 + 234;
 		
 		String str = "add a string";
+		
+		String anotherStr = "another string";
 	}
 
 }
