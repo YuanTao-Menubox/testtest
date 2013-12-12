@@ -10,6 +10,7 @@ public class tttttttttttt {
 		int i = 9;
 		
 		i++;
+		i++;
 	}
 
 }
