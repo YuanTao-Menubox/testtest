@@ -9,11 +9,9 @@ public class tttttttttttt {
 		System.out.println("-----------"); 
 		int i = 9;
 		
-		i++;
-		i++;
-		
-		i++;
 		i = i+ 2;
+		
+		String j = "s";
 	}
 
 }
