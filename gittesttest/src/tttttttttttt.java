@@ -13,6 +13,7 @@ public class tttttttttttt {
 		i++;
 		
 		i++;
+		i = i+ 2;
 	}
 
 }
