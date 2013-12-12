@@ -16,6 +16,8 @@ public class tttttttttttt {
 		final double dd = 33;
 		
 		i += 3 + 234;
+		
+		String str = "add a string";
 	}
 
 }
