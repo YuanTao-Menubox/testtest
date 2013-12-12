@@ -8,6 +8,8 @@ public class tttttttttttt {
 		// TODO Auto-generated method stub
 		System.out.println("-----------"); 
 		int i = 9;
+		
+		i++;
 	}
 
 }
