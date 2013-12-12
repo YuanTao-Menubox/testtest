@@ -20,4 +20,8 @@ public class tttttttttttt {
 		String str = "add a string";
 	}
 
+	static void func() {
+		int i = 0;
+		return;
+	}
 }
